@@ -154,7 +154,7 @@
   </div>
 
   <div class="footer">
-  <center><p>&copy; <strong>2022 By Ghoziandra Zayyan Pradyta</strong></p></center>
+  <center><p>&copy; <strong>2022 By Afif Jefryyan</strong></p></center>
   </div>
 
 </body>
